@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"Pipfile": "ini",
+		"Pipfile.lock": "json",
+		"pyvenv.cfg": "ini"
+	}
+}
