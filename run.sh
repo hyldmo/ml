@@ -1,5 +1,7 @@
 #!/bin/bash
 
+brew install graphviz
+
 set -e
 pipenv install --python 3.9  --site-packages
 pipenv uninstall notebook
